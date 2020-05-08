@@ -4,9 +4,16 @@ This repository collates information, resources, links, ideas and examples of ho
 
 The site is maintained by the GES Flexible Leraning Team. Please contact any of the team if you need help with anything to do with preparing course materials and elements for delivering your courses or if you have any good ideas or discoveries you would like to share. Memebers of the team and their nominal areas of expertise are;
 
-- **Roderick Brown** (Team lead) <roderick.brown@glasgow.ac.uk>
-
-Video recording, web, digital data, QGIS, Geosciences
+- **Roderick Brown** (Team lead) <roderick.brown@glasgow.ac.uk> <br>
+Video recording, web, digital data, QGIS, Geology & Earth Sciences
+- **Adrian Bass** <adrian.bass@glasgow.ac.uk> <br>
+...expertise list .... Physical Geography
+- **Luke Daly** <luke.daly@glasgow.ac.uk> <br>
+...expertise list .... Geology & Earth Sciences
+- **Lazaros Karaliotas** <lazaros.karaliotas@glasgow.ac.uk> <br>
+...expertise list .... Human Geography
+- **William Kelly** <william.kelly@glasgow.ac.uk> <br>
+...expertise list .... PGT & Geomatics
 
 # Learning Management System   
 Guidance and examples of best practice for course layout on Moodle.
