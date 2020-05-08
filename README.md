@@ -51,10 +51,20 @@ Add examples and how to guides and videos on using Echo360 to prerecord lectures
 Add examples and how to guides and videos on using MEDIAL to prerecord lectures
 
 # Adding interactive & peer-to-peer elements
-- PeerWise
-- Aropa
-- Mentimeter
-- etc
+- [PeerWise](https://peerwise.cs.auckland.ac.nz/)
+- [Aropa](http://www.dcs.gla.ac.uk/~hcp/aropa/)
+- [Mentimeter](https://www.mentimeter.com/)
+
+## Using PeerWise for peer to peer assessment
+<img src="images/peerwise.png" alt="PeerWise" width="200"/>
+Add guide and examples...
+
+## Using Aropa for peer to peer assessment
+Add guide and examples...
+
+## Using Mentimeter for live interaction
+<img src="images/mentimeter_logo.png" alt="Mentimeter" width="200"/>
+Add guide and examples...
 
 ```markdown
 Notes on how to do something...
