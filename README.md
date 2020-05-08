@@ -25,7 +25,7 @@ Advice on practicle aspects of hardware, lighting, sound recording and recording
 Add examples and how to guides and videos on using Zoom to prerecord lectures
 
 ## Using Echo360 to prerecord lectures
-<img src="images/echo_360.png" alt="Echo360" width="100"/>
+<img src="images/echo360_logo_noTag.blu_.png" alt="Echo360" width="200"/>
 
 Add examples and how to guides and videos on using Echo360 to prerecord lectures
 
