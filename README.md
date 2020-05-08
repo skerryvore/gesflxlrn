@@ -1,35 +1,42 @@
 ## Welcome to the GES Flexible Learning Resources Repository
-You can use the [editor on GitHub](https://github.com/skerryvore/gesflxlrn/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repository collates information, resources, links, ideas and examples of how to use a range of software tools and techniques to enhance flexibility of delivery of courses.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Learning Management System
 
-### Markdown
+## Moodle
+[How to Moodle]() Link to tutorials and guides on using moodle. How to set up a quiz, upload files, add lectures from Echo360 etc etc
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[GES Flexible Learning 101](https://moodle.gla.ac.uk/course/view.php?id=19809) Link to a "dummy" GES course page on Moodle which we can use to test out ideas, techniques etc. Will also contain "how to" videos, documents and links to resources.
+
+# Recording and presenting prerecorded lectures
+
+- [Zoom](https://support.zoom.us/hc/en-us)
+- [Echo360](https://www.gla.ac.uk/myglasgow/anywhere/onlineteaching/usingecho360/)
+- [MEDIAL](https://www.medial.com/)
+
+## Using Zoom to prerecord lectures
+
+## Using Echo360 to prerecord lectures
+
+## Using Medial to prerecord lectures
+
+# Adding interactive & peer-to-peer elements
+- PeerWise
+- Aropa
+- Mentimeter
+- etc
 
 ```markdown
-Syntax highlighted code block
+Notes on how to do something...
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1. Step 1
+2. Step 2
+3. Step 3
+4. ...
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/skerryvore/gesflxlrn/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
