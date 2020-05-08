@@ -20,12 +20,18 @@ Advice on practicle aspects of hardware, lighting, sound recording and recording
 - [MEDIAL](https://www.medial.com/)
 
 ## Using Zoom to prerecord lectures
+<img src="images/zoom_logo_camera.png" alt="Zoom" width="100"/>
+
 Add examples and how to guides and videos on using Zoom to prerecord lectures
 
 ## Using Echo360 to prerecord lectures
+<img src="images/echo_360.png" alt="Echo360" width="100"/>
+
 Add examples and how to guides and videos on using Echo360 to prerecord lectures
 
 ## Using Medial to prerecord lectures
+<img src="images/medial_logo.png" alt="Medial" width="200"/>
+
 Add examples and how to guides and videos on using MEDIAL to prerecord lectures
 
 # Adding interactive & peer-to-peer elements
