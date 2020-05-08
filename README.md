@@ -56,7 +56,7 @@ Add examples and how to guides and videos on using MEDIAL to prerecord lectures
 - [Mentimeter](https://www.mentimeter.com/)
 
 ## Using PeerWise for peer to peer assessment
-<img src="images/peerwise.png" alt="PeerWise" width="200"/>
+<img src="images/PeerWise.png" alt="PeerWise" width="200"/>
 Add guide and examples...
 
 ## Using Aropa for peer to peer assessment
