@@ -1,4 +1,4 @@
-## Welcome to the GES Flexible Learning Resources Repository
+# Welcome to the GES Flexible Learning Resources Repository
 
 This repository collates information, resources, links, ideas and examples of how to use a range of software tools and techniques to enhance flexibility of delivery of courses.
 
