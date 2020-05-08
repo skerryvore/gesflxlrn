@@ -2,6 +2,12 @@
 
 This repository collates information, resources, links, ideas and examples of how to use a range of software tools and techniques to enhance flexibility of delivery of courses.
 
+The site is maintained by the GES Flexible Leraning Team. Please contact any of the team if you need help with anything to do with preparing course materials and elements for delivering your courses or if you have any good ideas or discoveries you would like to share. Memebers of the team and their nominal areas of expertise are;
+
+- **Roderick Brown** (Team lead) <roderick.brown@glasgow.ac.uk>
+
+Video recording, web, digital data, QGIS, Geosciences
+
 # Learning Management System   
 Guidance and examples of best practice for course layout on Moodle.
 
