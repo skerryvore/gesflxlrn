@@ -1,5 +1,6 @@
 ## Welcome to the GES Flexible Learning Resources Repository
-```This repository collates information, resources, links, ideas and examples of how to use a range of software tools and techniques to enhance flexibility of delivery of courses.
+```markdown
+This repository collates information, resources, links, ideas and examples of how to use a range of software tools and techniques to enhance flexibility of delivery of courses.
 ```
 # Learning Management System   
 Guidance and examples of best practice for course layout on Moodle.
